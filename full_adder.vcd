@@ -1,0 +1,79 @@
+$date
+	Fri Apr 25 10:31:38 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module full_adder_tb $end
+$var wire 1 ! sum $end
+$var wire 1 " cout $end
+$var reg 1 # a $end
+$var reg 1 $ b $end
+$var reg 1 % cin $end
+$scope module dut $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 % cin $end
+$var wire 1 " cout $end
+$var wire 1 ! sum $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 & i [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+0%
+0$
+0#
+0"
+0!
+$end
+#10000
+b0 &
+#20000
+1!
+1%
+b1 &
+#30000
+1!
+1$
+0%
+b10 &
+#40000
+1"
+0!
+1%
+b11 &
+#50000
+0"
+1!
+1#
+0$
+0%
+b100 &
+#60000
+1"
+0!
+1%
+b101 &
+#70000
+0!
+1$
+0%
+b110 &
+#80000
+1!
+1%
+b111 &
+#90000
+b1000 &
+#110000
