@@ -153,3 +153,5 @@ Make sure you have the following two files in your working directory:
     *   The waveforms will appear in the main panel. Use the zoom buttons (like magnifying glass with arrows) to view the simulation timeline.
 
 This completes the setup and basic usage demonstration of Icarus Verilog and GTKWave within the MSYS2 UCRT64 environment on Windows.
+### Wave Form Example
+![waveform](image/wafeform.png)
