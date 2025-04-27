@@ -154,4 +154,4 @@ Make sure you have the following two files in your working directory:
 
 This completes the setup and basic usage demonstration of Icarus Verilog and GTKWave within the MSYS2 UCRT64 environment on Windows.
 ### Wave Form Example
-![waveform](image/wafeform.png)
+![waveform](image/wafeform1.png)
